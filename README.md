@@ -34,8 +34,8 @@ urban-cli-service lint --fix
 # 生成页面模板
 urban create <pagename>
 --pagename
---creator
---page-desc
+--author
+--Desc
 
 # 生成readme
 urban-cli-service readme
